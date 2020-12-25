@@ -1,4 +1,4 @@
-objects = mbr.o 
+objects = mbr.o
 #boot.o
 
 %.o: %.asm
